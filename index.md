@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bem vindo ao site GitHub que você acabou de criar!
 
-You can use the [editor on GitHub](https://github.com/renanteste/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar este site [editor on GitHub](https://github.com/renanteste/site/edit/master/index.md) para montar e auxiliar a construção do seu site.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Subtexto
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes veja [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes - Temas Jekyl
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renanteste/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As páginas de seu site usam layout e o estilo do tema Jekyl que foi selecionado no repositório [repository settings](https://github.com/renanteste/site/settings). O nome deste tema está salvo no Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Suporte ou contato
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Havendo algum problema com as páginas? Verifique [documentation](https://help.github.com/categories/github-pages-basics/) ou [contact support](https://github.com/contact) e nós iremos o ajudar.
